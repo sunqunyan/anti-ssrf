@@ -1,4 +1,4 @@
-This is a lua script for ssrf defense.
+This is a lua script for ssrf defense in openresty.
 ===
 
 How to use:
