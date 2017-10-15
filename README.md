@@ -17,7 +17,7 @@ end
 References:
 ---
 
-[1]: "SSRF漏洞分析，利用及其防御" http://www.voidcn.com/article/p-qofjzhuk-st.html
+[1]: "谈一谈如何在Python开发中拒绝SSRF漏洞" http://bobao.360.cn/learning/detail/3074.html
 
 [2]: "openresty/lua-resty-dns" https://github.com/openresty/lua-resty-dns
 
